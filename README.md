@@ -1,11 +1,22 @@
-## Hey \o/ 👋
+## Hey everyone 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@gabrielribeirof-24292e?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabrielribeirof)](https://github.com/gabrielribeirof) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielribeirof/)](https://www.linkedin.com/in/gabrielribeirof/) 
-[![Gmail Badge](https://img.shields.io/badge/-ogabrielribeirof@gmail.com-e10b0b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ogabrielribeirof@gmail.com)](mailto:ogabrielribeirof@gmail.com) 
+I'm Gabriel Ribeiro from Brazil 🇧🇷. I'm 17y and have been a software developer since 2018 and since then I've been passionate about programming <3
+<br> 
 
-**My name is Gabriel Ribeiro** and I'm from Brazil (🇧🇷).
-<br>
-I'm self-taught beginner developer obsessed with the best *web* development technologies.
-<br><br>
-In my projects I try to prioritize my learning, good practices, performance, safety and robustness to meet the requirements of a good software.
+#### 🚀 Some technologies that I use
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-0c6f0c?style=flat-square&logo=node-dot-js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-08abd8?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next-dot-js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
