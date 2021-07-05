@@ -7,7 +7,7 @@ I'm Gabriel Ribeiro from Brazil 🇧🇷. I'm 17y and have been a software devel
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-0c6f0c?style=flat-square&logo=node-js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-0c6f0c?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
