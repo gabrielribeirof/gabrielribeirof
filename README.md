@@ -1,6 +1,6 @@
 ## Hey everyone 👋
 
-I'm Gabriel Ribeiro from Brazil 🇧🇷. I have been a software developer since 2018 and since then I've been passionate about programming <3
+I'm Gabriel from Brazil 🇧🇷. I have been a software developer since 2018 and since then I've been passionate about programming <3
 <br> 
 
 #### 🚀 Some technologies that I use
